@@ -7,6 +7,8 @@
 - Get to know the equipment used in newborn resuscitation
 - Clean baby
 - check baby's heart rate
-- apply suction to baby's mouth and nose
-- give baby oxygen
+- apply suction to baby's mouth and nose ( still in progress)
+- give baby oxygen (still in progress)
 
+## Backend Database
+- firebase ( still in progress)
